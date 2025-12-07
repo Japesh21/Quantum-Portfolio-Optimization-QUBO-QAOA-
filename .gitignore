@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Results folders (generated outputs)
+01_result/
+02_feature/
+03_result/
+04_result/
+
+# Data (raw & intermediate)
+data/
+*.csv
+*.npy
+*.npz
+
+# Images / plots
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
